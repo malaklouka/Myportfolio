@@ -25,7 +25,7 @@ export const ProjectData = [
     title:"MyPortfolio",
     about:"Using FrontEnd tools, this website , totally responsive, is my personnal Portfolio where you can find my last projects, my experience, and my skills in web developpement. It also give you the ability to contact me. ",
     tags:["HTML","CSS","JavaScript","ReactJS"],
-    github:"https://github.com/elbehimohammeddev/MyPortfolio",
+    github:"https://github.com/malaklouka/Myportfolio",
     image:portfolio
     
     
