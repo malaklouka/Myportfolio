@@ -9,7 +9,11 @@ function Header() {
     return (
         <div className="header">
             <div className="logo">
-                MyPortFolio
+	<div class="content">
+		<h2> MyPortFolio</h2>
+		<h2> MyPortFolio</h2>
+	</div>
+               
             </div>
             <div className="menu">
                 <div className="web-menu">

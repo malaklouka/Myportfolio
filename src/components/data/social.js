@@ -20,9 +20,9 @@ export const SocialData = [
       icon:require("../../img/icons/instagram.png").default,
   },
   {
-      platform:"Whatsapp",
-      link:"",
-      icon:require("../../img/icons/whatsapp.png").default,
+      platform:"Gmail",
+      link:"mailto:malaknakaa@gmail.com",
+      icon:require("../../img/icons/gml.png").default,
   },
 ];
 

@@ -8,6 +8,11 @@ export const SkillsData = [
           icon: <i class="devicon-react-original colored"></i>,
         },
         {
+          name:"NextJS",
+          icon: <i class="devicon-nextjs-original-wordmark"></i>
+
+        },
+        {
           name: "Angular",
           icon: <i class="devicon-angularjs-plain-wordmark colored"></i>
           ,
@@ -39,8 +44,11 @@ export const SkillsData = [
           {
             name: "CSS",
             icon: <i class="devicon-css3-plain colored"></i>
-            ,
+            
           },
+          {name:"Sass",
+        icon: <i class="devicon-sass-original"></i>
+      },
         
           {
             name: "REDUX",
@@ -106,16 +114,10 @@ export const SkillsData = [
 
             ,
           },
-          {
-            name: "JEE",
-            icon: <i class="devicon-cplusplus-plain colored"></i>,
-          },
-          {
-            name: "Langage R",
-          },
+        
       ]},
       {
-      type: "logiciels",
+      type: "Software",
       list: [
         {
           name: "Netbeans",
@@ -137,14 +139,7 @@ export const SkillsData = [
             icon: <i class="devicon-visualstudio-plain colored"></i>
             ,
           },
-        {
-          name: "VirtualBox",
-         
-        },
-        {
-          name: "ERP",
-         
-        },
+      
         {
             name: "ODOO",
            
@@ -175,9 +170,7 @@ export const SkillsData = [
       ]},
       {type: "FRAMEWORK",
       list: [
-        {
-          name: "Hadoop",
-        },
+    
         {
             name: "Matlab",
             icon: <i class="devicon-matlab-plain colored"></i>
@@ -199,7 +192,9 @@ export const SkillsData = [
             ,
           },
           {
-            name: "Semantic UI",
+            name: "tailwind",
+            icon: <i class="devicon-tailwindcss-original-wordmark"></i>
+
           },
       ]},{
       type: "operating system",

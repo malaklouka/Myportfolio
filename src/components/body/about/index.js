@@ -4,17 +4,18 @@ import './about.css';
 
 function About() {
     return (
+
         <div className="about">
             <div className="about-top">
                 <div className="about-info">
-                    Hello There 👋 , I am
-                    <br /> <span className="info-name">Nakaa Malak</span>.
-                    <br /> A FullStack Web and mobile Developper.
-                    <br />
-                    <br /> Software Engineer, having made a retraining in FullStack JS Web Developer.
-                    <br /> Highly motivated and responsible, in order to participate in new challenges,
-                    <br /> I am sure that my experience will be useful. 
-                    <br /> A great use.
+                    Hello There 👋 , I am Malak Nakaa.
+                    <br /><span className="info-name"> A Web and mobile Developper, having made a retraining in FullStack JS Web Developer.</span>
+              <br/>
+                    <br/><span className="info-name">On a personal level, I am highly-motivated, result oriented, self-driven, hard-working, fast learner and constantly seeking to improve my skills and am fully aware of the latest Full stack Development Tools.</span>
+<br/>
+<br/><span className="info-name">In addition to this, I have the ability to adapt to any type of team environment, I am team oriented and get along with others when working in a group setting. </span>
+<br/>
+<br/><span className="info-name">I also have the ability to work independently while staying on schedule and meeting those tight deadlines.</span>
                 </div>
                 <div className="about-photo">
                     <img src={require('../../../img/img.jpg').default}
@@ -23,6 +24,8 @@ function About() {
                     />
                 </div>
             </div>
+            <div className="flap"></div>
+
             <SocialContact />
         </div>
     )

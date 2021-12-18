@@ -3,6 +3,11 @@ import './project-card.css';
 
 function ProjectCard( { project } ) {
     return (
+
+
+
+
+
         <div className="project-card">
             <div className="project-info">
                 <label className="project-title">{project.title}</label>
@@ -18,6 +23,13 @@ function ProjectCard( { project } ) {
                     <a className="project-link" href={project.github}>
                         <div className="link-button">
                         <i class="devicon-github-original colored"></i>Github
+                        </div>
+                        </a>
+                        )}  
+                          {project.link && (
+                    <a className="project-link" href={project.link}>
+                        <div className="link-button">
+                        <i class="devicon-github-original colored"></i>Link
                         </div>
                         </a>
                         )}    

@@ -6,6 +6,9 @@
 .section-title{
   font-size: 32px;
   font-weight: 700;
+  font-family: "Great Vibes",cursive;
+  color: darkgreen;
+
 }
 .contact-container{
   display: flex;
@@ -20,17 +23,25 @@
   text-align: center;
 }
 .download{
-  background-color: lightblue;
+  background-image:url(https://media.giphy.com/media/3d63YDxRJRtkZepvGm/giphy.gif);
   padding: 8px 16px;
   font-size: 24px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 4px;
+  font-family: "Great Vibes",cursive;
 }
 .download a{
   text-decoration: none;
   color: black;
+
+}
+
+.touch{
+  font-family: "Great Vibes",cursive;
+  font-size: 30px;
+  font-weight:bold;
 }
 
 @media only screen and (max-width: 720px) {

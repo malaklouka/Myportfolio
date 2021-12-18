@@ -4,13 +4,19 @@
   align-items: center;
 }
 .web-option{
-  font-size: 20px;
+  font-size: 40px;
   margin-right: 16px;
   font-weight: 700;
 }
 .web-option a{
   text-decoration: none;
-  color: black;
+  color: transparent;
+	
+	background: url(https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif);
+	background-size: contain;
+	background-position: top left;
+	-webkit-background-clip: text;
+  font-family: "Great Vibes",cursive;
   display: flex;
   align-items: center;
 }

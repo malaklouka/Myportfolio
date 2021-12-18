@@ -6,6 +6,7 @@ function SkillCard({skill}) {
         <div className="skill-card">
             <div className="skill-icon">{skill.icon} </div>
             <label className="skill-name">{skill.name} </label>
+            
         </div>
     )
 }
