@@ -26,7 +26,7 @@ export const WorkData = [
       designation: "Software Engineer",
       dateJoining: "02/2017",
       dateEnd: "05/2017",
-      companyLogo:"https://scontent.ftun16-1.fna.fbcdn.net/v/t1.18169-9/10330262_558234891017890_4234697386883643617_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=0ff_r5H351oAX8ScGKL&_nc_ht=scontent.ftun16-1.fna&oh=275c60ad3d9723cb2e940f12a0c6bece&oe=61B7EBFF",
+      companyLogo:"https://scontent.ftun15-1.fna.fbcdn.net/v/t31.18172-8/12377543_558209324353780_6629934963063381897_o.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_ohc=b9saFge4l0oAX99DfkG&tn=RlFayEpFMKa8164Q&_nc_ht=scontent.ftun15-1.fna&oh=00_AT-YIkgIHyK9Fivi8sttV14Q181Q4_wYKQ7jWtM-O07z_g&oe=61E5F1AA",
       work: "Development of a web and mobile application for the management of credit cards loyalty.",
     },
   ];

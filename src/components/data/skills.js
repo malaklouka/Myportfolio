@@ -158,7 +158,7 @@ export const SkillsData = [
           },
 
       ]}
-      ,{type: "modeling language",
+      ,{type: "Modeling language",
       list: [
         {
           name: "UML",
@@ -197,7 +197,7 @@ export const SkillsData = [
 
           },
       ]},{
-      type: "operating system",
+      type: "Operating system",
       list: [
         {
           name: "Linux",

@@ -9,7 +9,7 @@ function About() {
             <div className="about-top">
                 <div className="about-info">
                     Hello There 👋 , I am Malak Nakaa.
-                    <br /><span className="info-name"> A Web and mobile Developper, having made a retraining in FullStack JS Web Developer.</span>
+                    <br /><span className="info-name"> freshly graduated with a master degree in software engineering, having made a retraining in FullStack JS Web Developer.</span>
               <br/>
                     <br/><span className="info-name">On a personal level, I am highly-motivated, result oriented, self-driven, hard-working, fast learner and constantly seeking to improve my skills and am fully aware of the latest Full stack Development Tools.</span>
 <br/>

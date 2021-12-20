@@ -22,7 +22,7 @@ export const SocialData = [
   {
       platform:"Gmail",
       link:"mailto:malaknakaa@gmail.com",
-      icon:require("../../img/icons/gml.png").default,
+      icon:require("../../img/icons/contct.png").default,
   },
 ];
 

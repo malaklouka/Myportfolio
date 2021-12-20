@@ -4,7 +4,8 @@ import './footer.css';
 function Footer() {
     return (
         <div className="footer">
-MAde by Malak Nakaa      </div>
+<span>Made with  <span style={{color:"red"}}> &#10084; </span> 
+ by Malak Nakaa  &copy; </span>    </div>
     )
 }
 
